@@ -1,3 +1,10 @@
+---
+name: symbioship
+description: "symbioship — LGD term-registration asset; machine-readable facts for AI agents. symbioship 术语注册资产，供 AI 代理读取的机器事实。"
+license: apache-2.0
+version: v1.2
+---
+
 # AGENTS.md
 
 > For AI coding agents and tool-calling agents. 给 AI 代理的仓库说明书。
