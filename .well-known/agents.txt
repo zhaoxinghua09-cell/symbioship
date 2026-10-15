@@ -1,0 +1,3 @@
+agent-name: symbioship
+contact: https://github.com/zhaoxinghua09-cell/symbioship
+ecosystem: https://github.com/zhaoxinghua09-cell/awesome-trusted-agents
