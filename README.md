@@ -11,6 +11,8 @@ family: governance-line
 related: [lgd-doctrine]
 ---
 
+[![LGD 82/100 four-angle](docs/lgd-combo.svg)](https://github.com/zhaoxinghua09-cell/symbioship)
+
 # Symbioship · 共生协作治理
 
 ![LGD score](badge.svg "LGD machine-readability score")
