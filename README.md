@@ -1,7 +1,7 @@
 ---
 name: symbioship
 description: "Use when governing collaboration among multiple autonomous beings (AI×AI, AI×human, team×team). 当需要治理多自治之物协作（AI×AI、AI×人、团队×团队）时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
